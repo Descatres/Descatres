@@ -4,6 +4,7 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
   
 [![Linkedin: joaocatre](https://img.shields.io/badge/-joaocatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocatre/)](https://www.linkedin.com/in/joaocatre/)
 [![GitHub Catré](https://img.shields.io/github/followers/Descatres?label=follow&style=social)](https://github.com/Descatres)
+[![wakatime](https://wakatime.com/badge/user/35841912-99d4-4385-b27a-d9ebdf85765f.svg)](https://wakatime.com/@35841912-99d4-4385-b27a-d9ebdf85765f&?style=social)
 <!-- ![Views](https://komarev.com/ghpvc/?username=Descatres)-->
 
 
@@ -15,10 +16,11 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 <a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
 </a>
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres&theme=dracula&v=2" />
 </a>
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Descatres&layout=compact&count_private=true&theme=dracula" />
 </a>
 
