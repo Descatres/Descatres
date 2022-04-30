@@ -6,7 +6,15 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 [![GitHub Catré](https://img.shields.io/github/followers/Descatres?label=follow&style=social)](https://github.com/Descatres)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=radical&count_private=true)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true)
+[![Catré's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Descatres)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres" />
+</a>
 
 ---
 
