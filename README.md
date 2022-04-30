@@ -13,7 +13,7 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres&theme=dracula" />
 </a>
 
 ---
