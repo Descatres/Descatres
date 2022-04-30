@@ -10,7 +10,9 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 [![Catré's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Descatres)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<p align="center">
+  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=V4NSH4J">
+</p>
 <a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
 </a>
