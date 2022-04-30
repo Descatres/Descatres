@@ -1,18 +1,17 @@
 # Hi, I'm Catré 👋
 
 Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
-
+  
 [![Linkedin: joaocatre](https://img.shields.io/badge/-joaocatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocatre/)](https://www.linkedin.com/in/joaocatre/)
 [![GitHub Catré](https://img.shields.io/github/followers/Descatres?label=follow&style=social)](https://github.com/Descatres)
+![Views](https://komarev.com/ghpvc/?username=Descatres)
 
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true)
 [![Catré's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Descatres)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<p align="center">
-  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=Descatres">
-</p>
+
 <a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
 </a>
