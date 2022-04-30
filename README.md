@@ -4,7 +4,7 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
   
 [![Linkedin: joaocatre](https://img.shields.io/badge/-joaocatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocatre/)](https://www.linkedin.com/in/joaocatre/)
 [![GitHub Catré](https://img.shields.io/github/followers/Descatres?label=follow&style=social)](https://github.com/Descatres)
-[![wakatime](https://wakatime.com/badge/user/35841912-99d4-4385-b27a-d9ebdf85765f.svg)](https://wakatime.com/@35841912-99d4-4385-b27a-d9ebdf85765f&?style=social)
+[![wakatime](https://wakatime.com/badge/user/35841912-99d4-4385-b27a-d9ebdf85765f.svg)](https://wakatime.com/@35841912-99d4-4385-b27a-d9ebdf85765f)
 <!-- ![Views](https://komarev.com/ghpvc/?username=Descatres)-->
 
 
