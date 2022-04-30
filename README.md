@@ -12,13 +12,13 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 -->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=dracula" />
 </a>
 
 ---
