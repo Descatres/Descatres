@@ -6,7 +6,7 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 [![GitHub Catré](https://img.shields.io/github/followers/Descatres?label=follow&style=social)](https://github.com/Descatres)
 
 
-[!Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=radical&count_private=true)
 
 ---
 
