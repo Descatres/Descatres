@@ -7,13 +7,18 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true)
-[![Catré's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Descatres)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Catré's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Descatres)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=dracula" />
 </a>
 
 ---
