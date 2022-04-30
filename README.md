@@ -17,13 +17,13 @@ Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Descatres&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=dracula" />
-</a>
+</a>-->
 
 ---
 
 ## Skills
 [<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='python' height='30'>](https://docs.python.org/3/)
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='java' height='30'>](https://docs.oracle.com/en/java/)
-[<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://devdocs.io/c/)
+[<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' alt='c' height='30'>](https://devdocs.io/c/)-->
