@@ -1,4 +1,4 @@
-# Hi, I'm Catré 👋
+# Hi 👋
 
 Studying Computer Science at [FCTUC](https://www.uc.pt/fctuc)
   
