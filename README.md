@@ -10,9 +10,9 @@ Studying Computer Science [@FCTUC](https://www.uc.pt/fctuc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true&a">
+<!--<a href="https://github-readme-stats.vercel.app/api?username=Descatres&show_icons=true&theme=dracula&count_private=true&a">
   <img align="left" src="https://github-readme-stats.vercel.app/api?a&username=Descatres&show_icons=true&count_private=true&theme=dracula" />
-</a>
+</a>-->
 
 <!--
 ---
