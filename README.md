@@ -1,5 +1,6 @@
 # Hi 👋
 
+Frontend Dev [@LBC](https://lbc-global.com/)
 Studying Software Engineering [@FCTUC](https://www.uc.pt/fctuc)
 <br>
   
