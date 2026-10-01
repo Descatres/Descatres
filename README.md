@@ -1,8 +1,8 @@
 # Hi 👋
 
-Frontend Dev [@LBC](https://lbc-global.com/)
+Fullstack Engineer
 </br>
-Studying Software Engineering [@FCTUC](https://www.uc.pt/fctuc)
+Master's in Software Engineering [@FCTUC](https://www.uc.pt/fctuc)
 <br>
   
 <!--[![Linkedin: joaocatre](https://img.shields.io/badge/-joaocatre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocatre/)](https://www.linkedin.com/in/joaocatre/)-->
